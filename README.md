@@ -69,7 +69,7 @@ Dataset files are not included in this repository. Please refer to the original 
 This project was developed using **Google Colab** with Python and Scikit-learn.
 
 - **Environment:** Google Colab
-- **Dataset:** [Airline Passenger Satisfaction – Kaggle Competition](https://www.kaggle.com/competitions/airline-passenger-satisfaction)
+- **Dataset:** [Airline Passenger Satisfaction – Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s6e10)
 - **Model:** Logistic Regression
 - **Preprocessing:** SimpleImputer, StandardScaler, and OneHotEncoder
 - **Hyperparameter tuning:** 5-fold GridSearchCV
