@@ -1,4 +1,4 @@
-\# Airline Passenger Satisfaction Prediction
+# Airline Passenger Satisfaction Prediction
 
 
 
@@ -6,7 +6,7 @@ A machine learning project that predicts airline passenger satisfaction using pa
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,7 +14,7 @@ This project explores and develops machine learning models to predict whether ai
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -26,43 +26,43 @@ Dataset files are not included in this repository. Please refer to the original 
 
 
 
-\## Methods
+## Methods
 
 
 
-\- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-\- Missing value imputation
+- Missing value imputation
 
-\- Numerical feature scaling
+- Numerical feature scaling
 
-\- Categorical feature encoding
+- Categorical feature encoding
 
-\- Logistic Regression
+- Logistic Regression
 
-\- Hyperparameter tuning using GridSearchCV
+- Hyperparameter tuning using GridSearchCV
 
-\- 5-fold cross-validation
-
-
-
-\## Model Performance
+- 5-fold cross-validation
 
 
 
-\*\*Model:\*\* Logistic Regression
+## Model Performance
 
 
 
-\*\*Best parameter:\*\* C = 0.01
+*\*Model:\*\* Logistic Regression
 
 
 
-\*\*Cross-validation ROC-AUC:\*\* 0.92187
+*\*Best parameter:\*\* C = 0.01
 
 
 
-\*\*Validation ROC-AUC:\*\* 0.92046
+*\*Cross-validation ROC-AUC:\*\* 0.92187
+
+
+
+*\*Validation ROC-AUC:\*\* 0.92046
 
 ## Reproducibility
 
@@ -77,27 +77,27 @@ This project was developed using **Google Colab** with Python and Scikit-learn.
 
 To reproduce the results, download the competition dataset from Kaggle and run the notebook in Google Colab.
 
-\## Technologies
+## Technologies
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- NumPy
+- NumPy
 
-\- Matplotlib
+- Matplotlib
 
-\- Seaborn
+- Seaborn
 
-\- Scikit-learn
+- Scikit-learn
 
-\- Google Colab
+- Google Colab
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -121,7 +121,7 @@ airline-passenger-satisfaction/
 
 
 
-\## Author
+## Author
 
 
 
@@ -129,7 +129,7 @@ Aw Tha Da
 
 
 
-\## License
+## License
 
 
 
