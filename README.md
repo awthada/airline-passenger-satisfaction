@@ -50,19 +50,19 @@ Dataset files are not included in this repository. Please refer to the original 
 
 
 
-*\*Model:\*\* Logistic Regression
+**Model:** Logistic Regression
 
 
 
-*\*Best parameter:\*\* C = 0.01
+**Best parameter:** C = 0.01
 
 
 
-*\*Cross-validation ROC-AUC:\*\* 0.92187
+**Cross-validation ROC-AUC:** 0.92187
 
 
 
-*\*Validation ROC-AUC:\*\* 0.92046
+**Validation ROC-AUC:** 0.92046
 
 ## Reproducibility
 
